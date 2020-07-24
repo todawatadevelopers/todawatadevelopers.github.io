@@ -3,6 +3,9 @@
 		{
 			"name": "todawatadevelopers.github.io",
 			"path": "."
+		},
+		{
+			"path": "../ashokchoudhary"
 		}
 	],
 	"settings": {}
